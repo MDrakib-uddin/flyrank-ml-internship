@@ -63,7 +63,7 @@ Grouped validation produced a more realistic estimate of model performance.
 
 # Repository
 
-https://github.com/yourusername/flyrank-ml-internship
+https://github.com/MDrakib-uddin/flyrank-ml-internship
 
 ---
 
